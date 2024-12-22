@@ -1,0 +1,43 @@
+body{
+    background-color: #0e0f0e;
+}
+div{
+    color: #f1f1f1;
+}
+.sub{
+    font-weight: 500;
+}
+.latitude{
+    display: flex;
+    flex-direction:row;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.tags{
+    font-family: ;
+    font-weight: 500;
+    background-color:#272727;
+    padding:10px 10px;
+    border-radius: 10px;
+}
+.logo{
+    height: 50px;
+    width: auto;
+}
+.bar{
+    font-weight: 100;
+    border: 1.5px solid #272726;
+    border-radius: 20px;
+    color: #272127;
+    padding: 6px;
+    padding-left: 16px;
+    padding-right: 500px;
+    margin-top: 5px;
+    margin-left: 200px;
+
+}
+.head{
+    display: flex;
+    flex-wrap: wrap;
+
+}
