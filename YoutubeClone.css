@@ -20,6 +20,7 @@ div{
     
 }
 .sub:hover{
+    cursor: pointer;
     height: 45px;
     border-radius: 10px;
     width: auto;
